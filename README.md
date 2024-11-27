@@ -1,6 +1,6 @@
 # Perfil Personal
 <img src = "foto perfil.png" > <br>
-## DATOS 
+## DATOS ♟
 David González Valderrama
 Viviendo en Sevilla capital 
 
